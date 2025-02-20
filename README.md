@@ -22,4 +22,4 @@ Why Am I so lazy to put screenshot😣
 
 ### 1. Clone the Repository
    ```bash
-   git clone https://github.com/bern15/chat.git
+   git clone https://github.com/bern15/chats.git
